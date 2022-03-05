@@ -30,33 +30,3 @@ Everything you need to complete this assignment can be found on algolia.com/docs
 1. Push your code into a code sandbox and share it with us  
 2. Reply to our email with a link to your code sandbox, and anything else you think is applicable  
   
-## Scoring Rubric
-  
-### Technical Assignment
-  
-| Did the candidate: | Yes | No |
-| :------------- | :------------- | :------------- |
-| Follow the instructions of the assignment? | | |
-| Write code that follows best-practices? | | |
-| Avoid over-engineering? | | |
-| Demonstrate understanding of the code they wrote? | | |
-| Demonstrate good code and process organization? | | |
-| Complete the assignment in an efficient manner? | | |
-| Ask for clarification when necessary? | | |
-  
-### “Customer” Questions
-
-| Did the candidate: | Yes | No |
-| :------------- | :------------- | :------------- |
-| Answer the questions correctly? | | |
-| Answer in a succinct manner? | | |
-| Have minimal spelling, grammar, or formatting mistakes? | | |
-| Employ a friendly, helpful tone? | | | |
-
-### Overall Impressions
-
-| Does the candidate demonstrate being in the top 10% of: | Yes | No |
-| :------------- | :------------- | :------------- |
-| Technical aptitude | | |
-| Problem Solving | | |
-| Communication skills | | | |
