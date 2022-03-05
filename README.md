@@ -25,8 +25,4 @@ Please answer example customer questions in the questions directory.
 3. To run the front end of the application you will need to add your app id, api key and index name to the file .env.test and rename it .env. Once added run `npm install` & `npm start` to see the UI  
   
 Everything you need to complete this assignment can be found on algolia.com/docs.  
-  
-## How to submit
-1. Push your code into a code sandbox and share it with us  
-2. Reply to our email with a link to your code sandbox, and anything else you think is applicable  
-  
+
