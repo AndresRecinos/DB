@@ -1,11 +1,4 @@
-# Algolia TAM Assignment 
-  
-This is the hiring assignment for the TAM Team at Algolia. It’s intended to mimic work you might do here, while giving us an understanding of your skills in:  
-  
-* Coding
-* Problem Solving
-* Communication
-  
+
 If you want to know how we will judge the assignment, you can view our scoring rubric.  
   
 ## Brief
