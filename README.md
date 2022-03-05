@@ -1,5 +1,4 @@
 
-If you want to know how we will judge the assignment, you can view our scoring rubric.  
   
 ## Brief
 Spencer and Williams have provided us with raw product data and a repo of their front end code. They have asked us for help to enhance their implementation and have asked that we create an Algolia application to demonstrate this to them.
